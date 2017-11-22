@@ -1,0 +1,19 @@
+#sidebar{
+    width:30%;
+    min-height:600px;
+    position:relative;
+    margin-top:0px;
+    margin-left:10px;
+    float:left;
+    background:grey;
+}
+
+#sidebarright{
+    width:30%;
+    min-height:600px;
+    position:relative;
+    margin-top:0px;
+    margin-left:10px;
+    float:right;
+    background:white;
+}

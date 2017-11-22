@@ -1,0 +1,3 @@
+ecommerce_homepage:
+    path:     /come/{name}
+    defaults: { _controller: EcommerceEcommerceBundle:Romain:index }
